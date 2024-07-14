@@ -18,11 +18,6 @@ The Weather Forecast App is a simple web application that allows users to search
 - **REST API**: Fetch weather data from an external API.
 - **CSS3**: For styling the application.
 
-## Final UI of Project
-   ## by default user interface
-        ![alt text](image.png)
-   ## After Enter city name
-    ![alt text](image.png)
 
 
 ## diffrent Hooks and uses in this project
