@@ -22,7 +22,7 @@ The Weather Forecast App is a simple web application that allows users to search
    ## by default user interface
         ![alt text](image.png)
    ## After Enter city name
-        ![alt text](image-1.png)
+    ![alt text](image.png)
 
 
 ## diffrent Hooks and uses in this project
